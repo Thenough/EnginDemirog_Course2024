@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GeLIx49BgMEodNeYgwUUuQ3Sz+q2R9g3OFGi49wkO6qcWFbtnBDFDS9MOKciLh7Dy3RiOLOPbu0YVgfD4S3Vgw==",
+  "dgSpecHash": "AlaTh/FY9Fi7g7vifJkGMVY1pzydGAsDPcs28wBxLCM8Ll0n0Kknlj1EvSsBuReQIfC+kg7ikZ0wKTEwCLKfSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mcann\\OneDrive\\Masaüstü\\ooo\\WorkAround\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\mcann\\OneDrive\\Masaüstü\\kk\\WorkAround\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mcann\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\mcann\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

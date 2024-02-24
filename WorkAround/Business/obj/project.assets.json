@@ -3041,11 +3041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mcann\\OneDrive\\Masaüstü\\ooo\\WorkAround\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\mcann\\OneDrive\\Masaüstü\\kk\\WorkAround\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\mcann\\OneDrive\\Masaüstü\\ooo\\WorkAround\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\mcann\\OneDrive\\Masaüstü\\kk\\WorkAround\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\mcann\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mcann\\OneDrive\\Masaüstü\\ooo\\WorkAround\\Business\\obj\\",
+      "outputPath": "C:\\Users\\mcann\\OneDrive\\Masaüstü\\kk\\WorkAround\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3067,8 +3067,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\mcann\\OneDrive\\Masaüstü\\ooo\\WorkAround\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\mcann\\OneDrive\\Masaüstü\\ooo\\WorkAround\\Entities\\Entities.csproj"
+            "C:\\Users\\mcann\\OneDrive\\Masaüstü\\kk\\WorkAround\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\mcann\\OneDrive\\Masaüstü\\kk\\WorkAround\\Entities\\Entities.csproj"
             }
           }
         }
