@@ -1,0 +1,12 @@
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\WebAPI\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\WebAPI\Core\bin\Debug\net8.0\Core.dll
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\WebAPI\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\WebAPI\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\WebAPI\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\WebAPI\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\WebAPI\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\WebAPI\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\WebAPI\Core\obj\Debug\net8.0\Core.dll
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\WebAPI\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\WebAPI\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\mcann\OneDrive\Masaüstü\gİTHUBeNGİN\WebAPI\Core\obj\Debug\net8.0\ref\Core.dll
